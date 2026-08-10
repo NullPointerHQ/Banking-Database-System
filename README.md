@@ -1,7 +1,6 @@
 # Banking-Database-System
-# Tic-Tac-Toe
 <div align="center">
-<img src="https://tenor.com/m2ch4Yn9w4w.gif" alt="Figure 0: Cover Image" width="300">
+<img src="https://media1.tenor.com/m/lewtfUgSCCYAAAAC/saving-money.gif" alt="Figure 0: Cover Image" width="300">
 </div>
 
 ⚖  _GIF Credits: [Giphy Link](https://giphy.com/gifs/WarChildNorthAmerica-tic-tictactoe-tac-toe-gR92EF4p9XyEHyD2n5)_
