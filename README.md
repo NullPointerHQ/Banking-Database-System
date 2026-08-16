@@ -14,7 +14,7 @@
 1. To simulate a basic banking database system for Wells Fargo, the system should be able to manage multiple user accounts such as Checkings and Savings as well as Loans. The system should also be able to update those accounts or close them as necessary, for instance, increasing the balance on a checking account when a direct deposit is made.
 2. To allow me to learn the fundamentals of SQL with hands-on experience.
 
-### Work in Progress
+### This Readme is a Work in Progress 
 
 ### Prerequisites 
 
