@@ -245,7 +245,7 @@ while user_choice != 4:
         cur.close();
         cnx.close()
 
-        cnx = mysql.connector.connect(host="localhost", user="root", password="1yIVWiPX43FC", database="wells_fargo_database") # - Connecting to the database
+        cnx = mysql.connector.connect(host="localhost", user="root", password="YOUR PASSWORD HERE", database="wells_fargo_database") # - Connecting to the database
         cur = cnx.cursor()
         
         not_used = 0 # This variable is required for the function but it is not actually used by it
