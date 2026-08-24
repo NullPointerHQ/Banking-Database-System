@@ -1,4 +1,4 @@
-# Banking-Database-System
+# Banking Database System
 <div align="center">
 <img src="https://media1.tenor.com/m/lewtfUgSCCYAAAAC/saving-money.gif" alt="Figure 0: Cover Image" width="300">
 </div>
