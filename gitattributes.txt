@@ -1,0 +1,2 @@
+# -  Lets GitHub see the SQL code and give the repository the correct badge.
+*.sql linguist-detectable=true 
